@@ -1,0 +1,8 @@
+# Author: Carey Dayrit
+# Author URL : https://careydayrit.com
+version: "3.7"
+services:
+    app: 
+        build: .   
+        stdin_open: true
+        tty: true

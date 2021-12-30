@@ -1,0 +1,6 @@
+__pycache__
+*.py
+launch.spec
+Notify.spec
+build/
+dist/
